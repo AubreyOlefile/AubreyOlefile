@@ -2,9 +2,9 @@
 
 ✅Familiar Frameworks/Apis: Unreal Engine C++, Microsoft MFC, SDL
 
-👀Secondary Languages: PHP, Python, C# , Javascript, CSS, HTML,SQL in no particular.
+👀Secondary Languages: PHP, Python, C# , Javascript, CSS, HTML,SQL , Pascal in no particular.
 
-🔃Familiar Frameworks/Apis: Blender Api, Wordpress, MariaDB etc....
+🔃Familiar Frameworks/Apis: Blender Api, Wordpress, MariaDB, Innosetup etc....
 
 📩 Interested in: FullStack Developement. Both Desktop and Web. 
 
