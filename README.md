@@ -2,7 +2,7 @@
 
 ✅Familiar Frameworks/Apis: Unreal Engine C++, Microsoft MFC, SDL
 
-👀Secondary Languages: PHP, Python, C# , Javascript, CSS, HTML,SQL , Pascal in no particular.
+👀Secondary Languages: PHP, Python, C# , Javascript, CSS, HTML,SQL , Pascal.  -> In no particular order
 
 🔃Familiar Frameworks/Apis: Blender Api, Wordpress, MariaDB, Innosetup etc....
 
