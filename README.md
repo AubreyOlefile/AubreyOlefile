@@ -10,7 +10,7 @@
 
 📖Still Learning: AWS, Networking.
 
-Currently working on: C++ port for mxParsar.
+Currently working on: C++ port for mxParsar, Unreal Engine , Stock Market App.
 
 <!---
 AubreyOlefile/AubreyOlefile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
