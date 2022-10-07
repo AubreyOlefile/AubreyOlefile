@@ -1,6 +1,6 @@
-👌🏾Strongest Language: C++
+👌🏾Preffered Language: C++
 
-✅Familiar Frameworks/Apis: Unreal Engine C++, Microsoft MFC, SDL
+✅Familiar Frameworks/Apis: Unreal Engine C++, SDL
 
 👀Secondary Languages: PHP, Python, C# , Javascript, CSS, HTML,SQL , Pascal.  -> In no particular order
 
